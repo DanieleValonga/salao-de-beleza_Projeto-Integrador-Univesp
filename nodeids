@@ -1,0 +1,6 @@
+[
+  "tests/burguers_test.py::test_burguers_api",
+  "tests/calculate_test.py::test_calculate_x_burguer",
+  "tests/calculate_test.py::test_calculate_x_egg",
+  "tests/ingredients_test.py::test_ingredients_api"
+]

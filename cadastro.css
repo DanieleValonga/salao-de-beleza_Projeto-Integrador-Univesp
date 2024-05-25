@@ -1,0 +1,47 @@
+.formulario {
+    padding-left: 150px;
+}
+
+form label {
+    display: block;
+    font-size: 20px;
+    margin: 20px 0 10px;
+    font-family: 'Gotu', sans-serif;
+    font-weight: bold;
+}
+
+.input-padrao {
+    display: block;
+    margin: 0 0 20px;
+    width: 50%;
+    padding: 10px;
+
+}
+
+button {
+    width: 10%;
+    padding: 15px 0px;
+    background: black;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    margin: 0 auto;
+    cursor: pointer;
+    font-family: 'Gotu', sans-serif;
+}
+
+.ver_cadastros {
+    width: 200px;
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    margin-left: 10px;
+    padding: 16px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    font-family: 'Gotu', sans-serif;
+}

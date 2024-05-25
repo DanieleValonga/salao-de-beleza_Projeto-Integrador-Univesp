@@ -1,0 +1,5 @@
+{
+  "tests/calculate_test.py::test_calculate_x_burguer": true,
+  "tests/calculate_test.py::test_calculate_x_egg": true,
+  "tests/burguers_test.py::test_burguers_api": true
+}
